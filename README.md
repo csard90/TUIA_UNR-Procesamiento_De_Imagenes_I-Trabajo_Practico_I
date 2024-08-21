@@ -1,4 +1,18 @@
-# TP1 Procesamiento de Imágenes
+Fecha: 10/2023
+
+# Trabajo Práctico I - Procesamiento de Imagenes I - Tecnicatura Universitaria en Inteligencia Artifical (UNR)
+
+## Integrantes: 
+
+* DONNARUMMA, César Julián.
+* DEMARRE, Lucas.
+* MUSSI, Miguel.
+* MENESCALDI, Brisa
+
+## Temas:
+
+* Ecualizacion local del histograma de una imagen.
+* Validacion de un formulario.
 
 ## Instrucciones para ejecutar el Trabajo Práctico
 
